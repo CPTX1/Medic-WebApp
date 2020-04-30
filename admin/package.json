@@ -23,7 +23,7 @@
     "bootstrap": "^3.3.7",
     "font-awesome": "^4.7.0",
     "gsm": "^0.1.4",
-    "jquery": "3.2.x",
+    "jquery": "3.5.x",
     "messageformat": "^2.0.4",
     "moment": "^2.22.2",
     "object-path": "^0.11.4",
