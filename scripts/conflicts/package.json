@@ -11,6 +11,6 @@
     "pouchdb-adapter-http": "^6.2.0",
     "pouchdb-core": "^6.2.0",
     "pouchdb-mapreduce": "^6.2.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   }
 }
