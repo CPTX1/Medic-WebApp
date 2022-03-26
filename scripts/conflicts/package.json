@@ -7,7 +7,7 @@
   "dependencies": {
     "json-diff": "^0.5.2",
     "just-diff": "^2.0.2",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "pouchdb-adapter-http": "^6.2.0",
     "pouchdb-core": "^6.2.0",
     "pouchdb-mapreduce": "^6.2.0",
