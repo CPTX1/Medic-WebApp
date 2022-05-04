@@ -11,7 +11,7 @@
     "@medic/message-utils": "^1.0.1",
     "@medic/phone-number": "^1.0.0",
     "@medic/registration-utils": "^1.0.0",
-    "angular": "^1.7.5",
+    "angular": "^1.8.3",
     "angular-cookie": "^4.1.0",
     "angular-pouchdb": "^5.0.2",
     "angular-route": "^1.7.5",
