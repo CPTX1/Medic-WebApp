@@ -55,7 +55,7 @@
     "karma-ng-html2js-preprocessor": "^1.0.0",
     "karma-spec-reporter": "0.0.32",
     "mocha": "^5.2.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "node-sass": "^4.10.0",
     "nodemon": "^1.18.7",
     "pouchdb-adapter-http": "^7.0.0",
